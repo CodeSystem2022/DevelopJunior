@@ -1,7 +1,5 @@
 # DevelopJunior
 Programando varios lenguajes, creando varios proyectos y ejercicios
-SubProceso batmanCaminando1() // Procedimiento para repetir movimiento combinado con el otro procedimiento
-	Definir batC1 como texto
 	
 	                   .  .            
 	                   |\_|\           
@@ -25,3 +23,6 @@ SubProceso batmanCaminando1() // Procedimiento para repetir movimiento combinado
 	           \ \| | /   | |__
 	                / |   |____)
 	               |_/
+<h1>Construyendo algoritmos utiles en JavaScript</h1>
+</br>
+Este código crea una escena de Three.js con una cámara perspectiva y un conjunto de partículas que se mueven alrededor del cursor del mouse. También hay dos animaciones en loop en el código, una que hace que el conjunto de partículas se escale de manera periódica y otra que hace que gire en torno a sus ejes x e y.
